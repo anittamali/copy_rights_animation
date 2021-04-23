@@ -1,0 +1,1 @@
+# copy_rights_animation
